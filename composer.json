@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-OAuthClient",
+	"description" : "CakePHP Plugin: OAuth 2.0 Client",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "OAuth", "Client"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"nih-fo/vendor-php-oauth2-client": "*"
+	}
+}
