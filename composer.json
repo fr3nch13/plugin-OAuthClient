@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-OAuthClient",
+	"name" : "fr3nch13/plugin-OAuthClient",
 	"description" : "CakePHP Plugin: OAuth 2.0 Client",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "OAuth", "Client"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/vendor-php-oauth2-client": "*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/vendor-php-oauth2-client": "*"
 	}
 }
